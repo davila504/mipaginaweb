@@ -1,0 +1,48 @@
+body {
+	background-image: url("imagenes/sa.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;	
+
+}
+
+
+
+
+.styled-table{
+	border-collapse: collapse;
+	margin: 10px 0px;
+	font-size: 1rem;
+	font-family: arial;
+	min width: 500px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table thead tr{
+
+	background-color: #;
+	color: #000;
+}
+.styled-table  th,
+.styled-table td{
+
+	background-color: #87ceeb;
+	color: #000000;
+	padding:  12px 15px;
+	box-shadow: 0 0 20px ;
+
+
+}
+.styled-table  tbody tr{
+
+border-botton: 1px solid #ddd;
+}
+
+.styled-table tbody tr:nth-of-type(even){
+	background-color: ;
+}
+.styled-table{
+	margin: 0 auto;
+
+}
+
+.
